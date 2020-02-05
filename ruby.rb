@@ -39,7 +39,7 @@
 
 
 
-# 8. What's the prupose of activeRecord?
+# 8. What's the purpose of ActiveRecord?
 
 
 
@@ -151,19 +151,3 @@ class Author < ActiveRecord::Base
 
 
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
